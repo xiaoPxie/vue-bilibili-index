@@ -1,5 +1,5 @@
 # 仿bilibili移动端主页
-  <a href="https://github.com/xiaoPxie/bilibili-index">jQuery版本在这里</a>
+  <a href="https://github.com/xiaoPxie/bilibili-index" target="_blank">jQuery版本在这里</a>
 ## 使用 webpack4 + vue2
 
 > 另外用到了以下插件<br>
