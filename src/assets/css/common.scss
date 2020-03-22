@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@import "../../assets/css/reset.css";
+@import "util";
+@import "border";
+@include root-font-size;
+
+/* 隐藏难看的标记 */
+[v-cloak] {
+  display: none;
+}
